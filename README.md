@@ -10,19 +10,20 @@ ChatPulse is a powerful tool designed to analyze your WhatsApp conversations, pr
 ## Activity Map
 **Description:** Visualize the geographic distribution of your chat activity using an interactive map.
 **Usage:**  Explore where the group conversations are most active and identify geographic trends in messaging behavior.
-![image](https://github.com/svivek2002/ChatPulse/assets/97838886/8090af91-89cd-4678-88bc-5d2eca291b34)
+![image](https://github.com/svivek2002/ChatPulse/assets/97838886/918b0827-b29d-43f0-ac05-5f0b7c4ff507)
 
 ## Monthly Timeline
 **Description:** Track the evolution of your chat activity over time with a monthly timeline view.
 **Usage:**  Identify peaks and troughs in messaging frequency and observe trends in conversation dynamics across different months.
-![image](https://github.com/svivek2002/ChatPulse/assets/97838886/918b0827-b29d-43f0-ac05-5f0b7c4ff507)
+![image](https://github.com/svivek2002/ChatPulse/assets/97838886/d505a82f-10ec-4130-ac15-72f635179e25)
 
 
 
 ## Wordcloud
 **Description:** Generate a word cloud visualization to visualize the most commonly used words in your chat.
 **Usage:**  Quickly identify recurring themes and topics of discussion based on the frequency of words used.
-![image](https://github.com/svivek2002/ChatPulse/assets/97838886/d505a82f-10ec-4130-ac15-72f635179e25)
+![image](https://github.com/svivek2002/ChatPulse/assets/97838886/8090af91-89cd-4678-88bc-5d2eca291b34)
+
 
 
 ## Emoji Analysis
